@@ -1,4 +1,9 @@
-# This is React practice for small game 
+# It is a game practice by React
+
+
+
+
+
 
 
 ---
